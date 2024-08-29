@@ -12,11 +12,10 @@ This project aims to explore and address missing values in the NHANES (National 
 - **Correlation Analysis:** Evaluating correlations between variables to determine if missing values in one variable are related to others, which can help in selecting the best imputation strategies.
 
 - **Methods for Handling Missing Values:** Exploring various imputation techniques to address missing values, comparing their effectiveness using machine learning models such as:
-
-- Decision Tree
-- Simple Perceptron Neural Network
-- K-means
-- Random Forest
+  - Decision Tree
+  - Simple Perceptron Neural Network
+  - K-means
+  - Random Forest
 - **Imputation Evaluation:** Using evaluation metrics like model accuracy, mean squared error (MSE), and cross-validation to determine which imputation method provides the best performance on the NHANES dataset.
 
 ## **Technologies Used:**
